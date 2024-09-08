@@ -68,7 +68,7 @@ In this lab, we'll be going through some basic tasks you'll need to do as you ma
 
 **Format the following text into a footnote:**
 
-Alex Wingate went to William and Mary[^1].
+Alex Wingate went to William and Mary.[^1]
  
 [^1]: William and Mary is a university in Williamsburg, VA founded in 1693.  
 
